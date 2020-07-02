@@ -1,2 +1,2 @@
 # tport
-Transporter 3 Autodeploy
+Transporter 3 Autodeploy scripts to setup remote devices
